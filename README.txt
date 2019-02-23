@@ -28,8 +28,8 @@ Nous allons constriure un site web de vente et location de voitures. Pour les be
              - changer de police et mettre en couleur 
              - changer la couleur et le format au survol du curseur
              
-8eme etape : ajout de date en bas
-             - deplacer la date en haut
+8eme etape : ajout de date en bas   puis
+             - deplacer la date en haut a gauche
              
 9eme etape : transformer "SiteAuto" en lien
 
